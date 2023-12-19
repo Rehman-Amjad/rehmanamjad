@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Rehman+Amjad;And+I+work+as+Mobile+App+Developer)](https://git.io/typing-svg)
 
-
+ 👨‍💻 Computer Engineer
 <ui>
 <li>
   👨‍💻 Computer Engineer
