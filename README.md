@@ -3,9 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Rehman+Amjad;And+I+work+as+Mobile+App+Developer)](https://git.io/typing-svg)
 
  About Me
-<ui>
+<UI>
 <li>
-  👨‍💻 Computer Engineer
+  Project Manager
+</li>
+<li>
+  Software Developer
+</li>
+<li>
+  Mobile App Developer
+</li>
+<li>
+  WordPress Developer
 </li>
 </ui>
 <!--
